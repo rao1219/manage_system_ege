@@ -1,4 +1,4 @@
-# manage_system_ege
+# Very Simple Management System
 pure C project using ege
 
 大一小学期管理系统
